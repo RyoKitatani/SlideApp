@@ -54,7 +54,6 @@
 			children = (
 				5375BF002644D50E004C4791 /* SlideAppApp.swift */,
 				5375BF022644D50E004C4791 /* ContentView.swift */,
-				5375BF042644D511004C4791 /* Assets.xcassets */,
 				5375BF092644D511004C4791 /* Info.plist */,
 				5375BF062644D511004C4791 /* Preview Content */,
 			);
@@ -64,6 +63,7 @@
 		5375BF062644D511004C4791 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				5375BF042644D511004C4791 /* Assets.xcassets */,
 				5375BF072644D511004C4791 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
